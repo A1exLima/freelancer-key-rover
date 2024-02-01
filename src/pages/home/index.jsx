@@ -80,9 +80,18 @@ export default function Home() {
         </SideBar>
 
         <Footer data-toggle-display={toggleDisplayContent}>
-          <FaLinkedin />
-          <FaWhatsapp />
-          <ImYoutube2 />
+          <a target="_blank" href="https://www.linkedin.com/in/a1exlima/">
+            <FaLinkedin />
+          </a>
+          <a
+            target="_blank"
+            href="https://wa.me/5511947330282?text=Ol%C3%A1%2C+estou+interessado+em+desenvolver+um+projeto+web+com+voc%C3%AA%21"
+          >
+            <FaWhatsapp />
+          </a>
+          <a target="_blank" href="https://www.youtube.com/@A1exLima">
+            <ImYoutube2 />
+          </a>
           <p>Developed by Alex Lima</p>
         </Footer>
 

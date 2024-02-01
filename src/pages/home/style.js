@@ -350,16 +350,20 @@ export const Footer = styled.footer`
     }
   }
 
-  > svg {
-    color: ${({ theme }) => theme.COLORS.Orange};
-    font-size: 2.1rem;
-    padding-bottom: 0.4rem;
+  a {
+    > svg {
+      color: ${({ theme }) => theme.COLORS.Orange};
+      font-size: 2.1rem;
+      padding-bottom: 0.4rem;
+    }
   }
 
-  > svg:nth-child(3) {
+  a:nth-child(3) {
     color: ${({ theme }) => theme.COLORS.Orange};
-    font-size: 3.5rem;
-    padding-bottom: 0.3rem;
+    > svg {
+      font-size: 3.5rem;
+      padding-bottom: 0.3rem;
+    }
   }
 
   > p {
