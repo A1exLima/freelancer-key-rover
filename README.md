@@ -1,12 +1,13 @@
 ___
 <p align="center">
-  <a href="https://keyrover.netlify.app/"> <img width="500" height="85" src="https://uploaddeimagens.com.br/images/004/729/084/original/keyRover.png"> <a/>
+  <a href="https://keyrover.netlify.app/"> <img width="500" height="380" src="https://uploaddeimagens.com.br/images/004/729/084/original/keyRover.png"> <a/>
 </p>
+    
 ___
 
 ## 👨‍💻 Sobre o projeto front-end
 
-Este repositório contém o código-fonte do projeto front-end desenvolvido com a parceria do mestre cervejeiro e engenheiro químico Wallace Rover, ele desenvolveu uma chave multifuncional com mais de 10 funções em uma única chave. Ele viu que poderia solucionar um problema constante dos mestres cervejeiros que seria de ter que levar muitas ferramentas para a instalação dos equipamentos de cervejaria em eventos, com isso desenvolveu a chave ROVER que é patenteada em seu nome, ele resolve esse problema com uma única chave que cabe no bolso do mestre cervejeiro. 
+Este repositório contém o código-fonte do projeto front-end desenvolvido com a parceria do mestre cervejeiro e engenheiro químico Wallace Rover. Ele desenvolveu uma chave multifuncional com mais de 10 funções em uma única chave. Ele viu que poderia solucionar um problema constante dos mestres cervejeiros, que seria de ter que levar muitas ferramentas para a instalação dos equipamentos de cervejaria em eventos, com isso desenvolveu a chave ROVER, patenteada em seu nome, a chave resolve esse problema com uma única ferramenta que cabe no bolso do mestre cervejeiro. 
 O projeto consiste em uma página de divulgação estilo linktree, com redirecionamento para contatos, página de vídeo da chave e download do material, tendo como objetivo a divulgação dessa ferramenta incrível.
 ___
 
